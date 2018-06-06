@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.arunditti.android.android_me.ui.MainActivity">
+    tools:context="com.arunditti.android.android_me.ui.AndroidMeActivity">
 
     <!-- LinearLayout for holding three Android-Me images -->
     <LinearLayout
