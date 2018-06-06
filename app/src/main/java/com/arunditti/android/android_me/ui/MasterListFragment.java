@@ -39,7 +39,6 @@ public class MasterListFragment extends Fragment {
         }
     }
 
-
     //Mandatory empty constructor
     public MasterListFragment() {
     }
